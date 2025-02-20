@@ -4,8 +4,8 @@
 #+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
 #+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> The link to a PDF version https://tinyurl.com/5n6vztrz <br> The link to the GitHub page https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
-#+REVEAL_THEME: moon
-#+REVEAL_SLIDE_FOOTER: Broomfield Stroke Unit
+#+REVEAL_THEME: solarized
+#+REVEAL_SLIDE_FOOTER: Cerebral Amyloid Angiopathy
 #+REVEAL_EXTRA_CSS: ./local.css
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hoppman.jpeg

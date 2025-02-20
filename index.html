@@ -21,14 +21,14 @@
 
 <style type="text/css">
 /**
- * League theme for reveal.js.
- *
- * This was the default theme pre-3.0.0.
- *
- * Copyright (C) 2011-2012 Hakim El Hattab, http://hakim.se
+ * Solarized Dark theme for reveal.js.
+ * Author: Achim Staebler
  */
 @import url(./fonts/league-gothic/league-gothic.css);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+/**
+ * Solarized colors by Ethan Schoonover
+ */
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222;
 }
@@ -37,42 +37,36 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #2b2b2b;
+  --r-background-color: #002b36;
   --r-main-font: Lato, sans-serif;
   --r-main-font-size: 40px;
-  --r-main-color: #eee;
+  --r-main-color: #93a1a1;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: League Gothic, Impact, sans-serif;
-  --r-heading-color: #eee;
+  --r-heading-color: #eee8d5;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
   --r-heading-text-transform: uppercase;
-  --r-heading-text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+  --r-heading-text-shadow: none;
   --r-heading-font-weight: normal;
-  --r-heading1-text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15);
+  --r-heading1-text-shadow: none;
   --r-heading1-size: 3.77em;
   --r-heading2-size: 2.11em;
   --r-heading3-size: 1.55em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #13DAEC;
-  --r-link-color-dark: rgb(16.15, 185.3, 200.6);
-  --r-link-color-hover: rgb(66.2, 225.4, 239.8);
-  --r-selection-background-color: #FF5E99;
+  --r-link-color: #268bd2;
+  --r-link-color-dark: rgb(32.3, 118.15, 178.5);
+  --r-link-color-hover: rgb(77.5161290323, 162.8774193548, 222.8838709677);
+  --r-selection-background-color: #d33682;
   --r-selection-color: #fff;
   --r-overlay-element-bg-color: 240, 240, 240;
   --r-overlay-element-fg-color: 0, 0, 0;
 }
 
 .reveal-viewport {
-  background: rgb(28, 30, 32);
-  background: -moz-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgb(85, 90, 95)), color-stop(100%, rgb(28, 30, 32)));
-  background: -webkit-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
-  background: -o-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
-  background: -ms-radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
-  background: radial-gradient(center, circle cover, rgb(85, 90, 95) 0%, rgb(28, 30, 32) 100%);
+  background: #002b36;
   background-color: var(--r-background-color);
 }
 
@@ -426,16 +420,16 @@ section.has-light-background, section.has-light-background h1, section.has-light
 <div class="reveal">
 <div class="slides">
 <section id="sec-title-slide">
-Cerebral Amyloid Angiopathy <br> <a href="mailto:r.kirthivasan@nhs.net">r.kirthivasan@nhs.net</a> <br> Compiled 2025-02-19 Wed 17:45 <br> <br> The link to a PDF version https://tinyurl.com/5n6vztrz <br> The link to the GitHub page https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/
+Cerebral Amyloid Angiopathy <br> <a href="mailto:r.kirthivasan@nhs.net">r.kirthivasan@nhs.net</a> <br> Compiled 2025-02-19 Wed 17:58 <br> <br> The link to a PDF version https://tinyurl.com/5n6vztrz <br> The link to the GitHub page https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/
 </section>
 
-<div id="orga8c5133" class="figure">
+<div id="orgdf18234" class="figure">
 <p><img src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NHS.png" alt="NHS.png" width="12%" align="right" />
 </p>
 </div>
 <section>
-<section id="slide-orgec2417a" data-background="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hoppman.jpeg" data-background-opacity="0.2">
-<h2 id="orgec2417a">Cerebral Angiopathy</h2>
+<section id="slide-org6b71b24" data-background="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hoppman.jpeg" data-background-opacity="0.2">
+<h2 id="org6b71b24">Cerebral Angiopathy</h2>
 <p>
 <center>
 Kirthivasan Ramanatham<br />
@@ -444,7 +438,7 @@ Stroke Unit Broomfield Hospital<br />
 Mid &amp; South Essex Hospital Trust<br />
 February 2025
 </p>
-<div class="slide-footer">Broomfield Stroke Unity</div>
+<div class="slide-footer">Broomfield Stroke Unit</div>
 </section>
 </section>
 </div>

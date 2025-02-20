@@ -32,3 +32,89 @@ February 2025
    :END:
 #+REVEAL_TOC: headlines 1
 * Introduction
+* Case Presentation
+- 77 year-old men developed a subacute-onset, rapidly progressive cognitive decline
+- After 6 months of evolution, he scored 6 on the Mini-Mental State Examination and had mild left hemiparesis and hemineglect
+- The patient died 11 months after the onset of cognitive symptoms.
+- Brain MRI showed microhemorrhages on gradient-echo sequence and confluent areas of white matter hyperintensities on T2-weighted images.
+* Criteria for Diagnosis
+** Definite CAA
+- Requires postmortem confirmation
+- Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
+- Documentation of lobar hemorrhage (macro/microbleed, cortical superficial siderosis [cSS], or intracerebral hemorrhage [ICH])
+** Probable CAA
+- Clinical-imaging criteria (without pathology)
+- Age ≥50 years
+- MRI evidence of ≥1 of the following
+- ≥2 strictly lobar hemorrhages (spontaneous ICH, cerebral microbleeds [CMBs], or cSS)
+- One lobar hemorrhage + focal/disseminated cSS* (≥3 sulci)
+- Exclusion of other causes (e.g., hypertension, anticoagulation, trauma, hemorrhagic tumor)
+** Possible CAA
+- Clinical-imaging criteria
+- Age ≥50 years
+- MRI evidence of one strictly lobar hemorrhage* (ICH, CMB, or cSS)
+- No alternative cause identified
+** Supporting Features (Not required but suggestive)
+- Neuroimaging:
+  - Acute convexity subarachnoid hemorrhage* (non-traumatic)
+  - Severe white matter hyperintensities* (posterior-predominant)
+  - Enlarged perivascular spaces* (centrum semiovale >20 count)
+- Genetic: APOE ε4 allele (risk factor)
+- Family history of CAA or hereditary forms (e.g., APP mutations)
+** Unifying diagnosis ? discussion
+- Single pathophysiological condition causing this
+- There is no specific treatment
+- Progressive inexorable course with mortality due to
+  neurodegenerative/cognitive or strokes (ischemic or hemorrhagic)
+
+** Typical radiological findings in patients presenting with TFNEs
+- Focal convexity SAH
+- Ischemic stroke
+- Subdural haemorrhage
+- Cortical superficial siderosis
+- Intraventricular bleeding
+** Possible/probable phenotypes associated with higher risk of ICH
+- Transient focal neurological event
+- White matter hyper intensities
+- Disseminated cortical superficial siderosis
+- Lobar ICH with micro bleeds
+- Cortical atrophy
+** Typical imaging features of CAA
+- Cortico-subcortical microhemorrhages or petecchial hemorrhages
+- Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
+- (Recurrent) lobar ICH - with finger like projections
+- Focal cortical SAH
+- Subdural haemorrhages
+- Basal ganglia haemorrhages
+** TFNEs are
+- Brief disturbances of motor, somatosensory, visual or language functions
+- Frequently recurrent stereotyped episodes of focal disturbances
+- Often presenting of transient parenthesis of the mouth or hand
+- Very close resemblance to TIAs
+- As these are typically thrombotic, they do not pose a ICH risk
+** Markers for Amyloid angiopathy
+- Clinical
+- Imaging
+- Pathological
+- CSF
+- Genetic
+- Emerging
+* Management and Treatment Options
+** Managing thrombotic conditions in CAA
+- Balancing Ischemic vs. Hemorrhagic Stroke Risks
+- Anticoagulation Dilemmas in Atrial Fibrillation
+- Antiplatelet Therapy After Intracerebral Hemorrhage
+- Using imaging biomarkers for risk stratifcation
+- Emerging Approaches and Research Gaps
+LAAO
+DOAC Novel biomarker
+Immunosuppression
+Biological treatments
+** Novel treatment modalities
+- Monoclonal Antibodies Targeting Amyloid-β
+- β-Secretase (BACE) Inhibitors
+- γ-Secretase Modulator
+- Amyloid Aggregation Inhibitors
+- Active Immunotherapy
+
+* Prognosis and Outcomes

@@ -32,8 +32,8 @@ February 2025
    :END:
 #+REVEAL_TOC: headlines 1
 * Introduction
-- Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
-  disease caused by deposition of amyloid protein in cerebral vessel walls.
+Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
+disease caused by deposition of amyloid protein in cerebral vessel walls.
 * Case Presentation
 - 77 year-old men developed a subacute-onset, rapidly progressive cognitive decline
 - After 6 months of evolution, he scored 6 on the Mini-Mental State Examination and had mild left hemiparesis and hemineglect
@@ -62,8 +62,9 @@ Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for 
   - Acute convexity subarachnoid hemorrhage* (non-traumatic)
   - Severe white matter hyperintensities* (posterior-predominant)
   - Enlarged perivascular spaces* (centrum semiovale >20 count)
-- Genetic: APOE ε4 allele (risk factor)
-- Family history of CAA or hereditary forms (e.g., APP mutations)
+- Genetic:
+  - APOE ε4 allele (risk factor)
+  - Family history of CAA or hereditary forms (e.g., APP mutations)
 ** Unifying diagnosis ? discussion
 - Single pathophysiological condition causing this
 - There is no specific treatment

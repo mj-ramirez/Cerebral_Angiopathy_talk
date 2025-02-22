@@ -40,7 +40,9 @@ disease caused by deposition of amyloid protein in cerebral vessel walls.
 - The patient died 11 months after the onset of cognitive symptoms.
 - Brain MRI showed microhemorrhages on gradient-echo sequence and confluent areas of white matter hyperintensities on T2-weighted images.
 * Criteria for Diagnosis
-Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology Diagnostic Accuracy Study, The Lancet. Neurology.
+Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
+Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology
+Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.gov/35841910/][PubMed]]
 ** Definite CAA
 - Requires postmortem confirmation
 - Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
@@ -55,13 +57,13 @@ Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for 
 ** Possible CAA
 - Clinical-imaging criteria
 - Age ≥50 years
-- MRI evidence of one strictly lobar hemorrhage* (ICH, CMB, or cSS)
+- MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
 - No alternative cause identified
 ** Supporting Features (Not required but suggestive)
 - Neuroimaging:
-  - Acute convexity subarachnoid hemorrhage* (non-traumatic)
-  - Severe white matter hyperintensities* (posterior-predominant)
-  - Enlarged perivascular spaces* (centrum semiovale >20 count)
+  - Acute convexity subarachnoid hemorrhage (non-traumatic)
+  - Severe white matter hyperintensities (posterior-predominant)
+  - Enlarged perivascular spaces (centrum semiovale >20 count)
 - Genetic:
   - APOE ε4 allele (risk factor)
   - Family history of CAA or hereditary forms (e.g., APP mutations)

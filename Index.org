@@ -2,7 +2,7 @@
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
 #+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
-#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> The link to a PDF version https://tinyurl.com/5n6vztrz <br> The link to the GitHub page https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/
+#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> <a href="https://tinyurl.com/23sj4ssa"> The Link to the PDF version </a> <br> <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/"> The Link todo the HTML5 version </a>
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: solarized
 #+REVEAL_SLIDE_FOOTER: Cerebral Amyloid Angiopathy

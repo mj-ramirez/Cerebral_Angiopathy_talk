@@ -56,11 +56,7 @@ disease caused by deposition of amyloid protein in cerebral vessel walls.
   - MRI repeated 2 months later - resolution
 
 *** Imaging: CT Head September 2015
-
-#+ATTR_HTML: :width 70%: align right
-@@html:<center>@@
-https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/CT%20Images%201%20copy.jpg
-
+@@html:<center><video controls width="1600" height=autosrc="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Case%20One.mp4"></video>@@
 ** Case Number 2: A 67 years old male
 - PMH: on anticoagulant for Anti Phospholipid Antibody syndrome
 *** Presentation
@@ -129,7 +125,7 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 
 ** Typical radiological findings TFNE
 Transient focal neurological episodes
-#+ATTR_HTML: :width 45% :align left
+#+ATTR_HTML: :width 40% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Illutstration%20of%20ICH.jpg
 
 - Convexity subarachnoid hemorrhage (cSAH)
@@ -139,8 +135,9 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Il
 - Ischemic stroke
 - Subdural haemorrhage
 - Cortical superficial siderosis (cSS)
-- White matter hyperintensities on T2-weighted MRI (WMH)
+- White matter hyperintensities (WMH)
 - Intraventricular bleeding
+
 ** Possible/probable phenotypes associated with higher risk of ICH
 - Transient focal neurological event
 - White matter hyper intensities
@@ -167,6 +164,11 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Il
 - CSF
 - Genetic
 - Emerging
+** Superficial Siderosis
+#+ATTR_HTML: :width 90%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Siderosis.jpg
+
 * Management and Treatment Options
 ** Managing thrombotic conditions in CAA
 - Balancing Ischemic vs. Hemorrhagic Stroke Risks
@@ -174,10 +176,32 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Il
 - Antiplatelet Therapy After Intracerebral Hemorrhage
 - Using imaging biomarkers for risk stratifcation
 - Emerging Approaches and Research Gaps
-LAAO
-DOAC Novel biomarker
-Immunosuppression
-Biological treatments
+- LAAO
+- DOAC Novel biomarker
+- Immunosuppression
+- Biological treatments
+** Risk of Intracranial Bleeding
+#+ATTR_HTML: :width 55% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/MICON%20Illustration.jpg
+
+- Prior ICH 2 = points
+- cSS = 1 point
+- APOE e4/e2 = 1 point
+- O points 3.7 risk of bleed
+- 3 points – 25% risk
+** CAA, Atrial Fibrillation and Anticoagulation
+#+ATTR_HTML: :width 70%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Illustration%20AF%20and%20CAA%20copy.jpg
+
+** Antithrombotic Therapy After Intracerebral Haemorrhage
+- RESTART trial: Anticoagulation
+  - The notion that anticoagulation should be permanently avoided following ICH has been challenged and a more nuanced approach is suggested
+  - One such nuance however is that certain phenotypes of CAA confer the highest rebleed risk
+- Antiplatelets (More controversial)
+  - RESTART AP/SoSTART – small and underpowered but initial results are appearing no increase in risk. ASPIRING is recruiting and we are participating
+  - Metaanalysis suggests modest increase in ICH with antiplatelets with an RR 1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS OUT
+
 ** Novel treatment modalities
 - Monoclonal Antibodies Targeting Amyloid-β
 - β-Secretase (BACE) Inhibitors
@@ -186,3 +210,23 @@ Biological treatments
 - Active Immunotherapy
 
 * Prognosis and Outcomes
+Best, Ambler & Wilson et al. (2021) Development of Imaging-Based Risk Scores for Prediction of Intracranial Haemorrhage and Ischaemic Stroke in Patients Taking Antithrombotic Therapy after Ischaemic Stroke or Transient Ischaemic Attack: A Pooled Analysis of Individual Patient Data from Cohort Studies, The Lancet. Neurology.
+* References
+@@html:<br>@@
+Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A Simple Grading Scale for
+Predicting Hemorrhage after Thrombolysis, Neurology. [[https://pubmed.ncbi.nlm.nih.gov/18955684][PubMed]]
+
+@@html:<br>@@
+Best, Ambler & Wilson et al. (2021) Development of Imaging-Based Risk Scores for
+Prediction of Intracranial Haemorrhage and Ischaemic Stroke in Patients Taking
+Antithrombotic Therapy after Ischaemic Stroke or Transient Ischaemic Attacks, The Lancet.
+Neurology. [[https://pubmed.ncbi.nlm.nih.gov/31130428/][PubMed]]
+
+@@html:<br>@@
+Charidimou, Shoamanesh & Salman et al. (2017) Cerebral Amyloid Angiopathy,
+Cerebral Microbleeds and Implications for Anticoagulation Decisions: The Need
+for a Balanced Approach, International Journal of Stroke. [[https://pubmed.ncbi.nlm.nih.gov/29125055/][PubMed]]
+
+@@html:<br>@@
+DeSimone, Graff & El et al. (2017) Cerebral Amyloid Angiopathy, Journal of the
+American College of Cardiology. [[https://pubmed.ncbi.nlm.nih.gov/28838368/][PubMed]]

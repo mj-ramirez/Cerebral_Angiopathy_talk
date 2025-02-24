@@ -34,11 +34,65 @@ February 2025
 * Introduction
 Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
 disease caused by deposition of amyloid protein in cerebral vessel walls.
-* Case Presentation
-- 77 year-old men developed a subacute-onset, rapidly progressive cognitive decline
-- After 6 months of evolution, he scored 6 on the Mini-Mental State Examination and had mild left hemiparesis and hemineglect
-- The patient died 11 months after the onset of cognitive symptoms.
-- Brain MRI showed microhemorrhages on gradient-echo sequence and confluent areas of white matter hyperintensities on T2-weighted images.
+
+* Case Presentations
+- 3 tales – one unifying diagnosis Thrombosis, haemorrhage and inflammation– all
+  in one.
+  - Quiz
+  - Diagnosis/phenotypes
+  - Conundrums
+** Case Number 1: A 65 years old female
+*** Presentation
+#+ATTR_REVEAL: :frag (appear)
+- Sept 2015
+  - Presented to stroke with intermittent confusion, subtle left facial weakness
+  - CT reveals extensive hypodensity right temporoparietal lobe
+  - MRI revealed DWI hyperintensity/T2 and FLAIR hyperintensities right temporal lobe – no enhancement
+  - Surveillance MRI revealed complete resolution of abnormality
+- April 2020
+  - Right arm numbness and aphasia for an hour followed by confusion
+  - CT head showed oedema in left temporoparietal area
+  - MRI head with contrast T2 hyperintensity left temporoparietal region with no enhancement
+  - MRI repeated 2 months later - resolution
+
+*** Imaging: CT Head September 2015
+
+#+ATTR_HTML: :width 70%: align right
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/CT%20Images%201%20copy.jpg
+
+** Case Number 2: A 67 years old male
+- PMH: on anticoagulant for Anti Phospholipid Antibody syndrome
+*** Presentation
+#+ATTR_REVEAL: :frag (appear)
+- Jan 2019
+  - Presented with sudden onset pins and needles right hand
+  - CT Head and MRI revealed a focal SAH
+- July 2024
+  - 2 x episodes of stereotyped events at 6 and 7 am – right hand tingling and
+    slurred speech
+  - Whilst an inpatient had recurrent episode of right facial numbness, tingling of right hand and slurred speech
+  - MRI
+  - Resolved and home on continued treatment
+- Jan 2025
+  - Several episodes of recurrent stereotyped episodes of right facial numbness, tingling in the right hand and slurred speech
+*** Imaging: MRI Brain July 2024
+
+#+ATTR_HTML: :width 50%:
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/MRI%20Imaging%20Case2%20copy.jpg
+** Case Number 3: A 65 years old female
+*** Presentation
+#+ATTR_REVEAL: :frag (appear)
+- July 2022: Two episodes of Left facial droop, left sided paresthesia and dysarthria
+- May 2023: Transient right hemifield visual loss
+- September 2023: Left lower quadrantanopia, left arm drift
+- January 2025:
+  - Tingling of the left hand
+  - MRI revealed moderate white matter hyperintensities, few cortical microbleeds L>R
+*** Imaging: MRI Brain January 2025
+#+ATTR_HTML: :width 100%:
+@@html:<center>@@https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/MRI%20Case%20Number3%20copy.jpg
 * Criteria for Diagnosis
 Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
 Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology
@@ -73,11 +127,19 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Progressive inexorable course with mortality due to
   neurodegenerative/cognitive or strokes (ischemic or hemorrhagic)
 
-** Typical radiological findings in patients presenting with TFNEs
-- Focal convexity SAH
+** Typical radiological findings TFNE
+Transient focal neurological episodes
+#+ATTR_HTML: :width 45% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/Illutstration%20of%20ICH.jpg
+
+- Convexity subarachnoid hemorrhage (cSAH)
+- Lobar Intracranial Haemorrhage (ICH)
+- Cerebral micro bleeds (CMB)
+- Enlarged Perivascular Spaces (EPVS)
 - Ischemic stroke
 - Subdural haemorrhage
-- Cortical superficial siderosis
+- Cortical superficial siderosis (cSS)
+- White matter hyperintensities on T2-weighted MRI (WMH)
 - Intraventricular bleeding
 ** Possible/probable phenotypes associated with higher risk of ICH
 - Transient focal neurological event

@@ -73,13 +73,27 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></vid
   - MRI revealed moderate white matter hyperintensities
   - Incidental cortical microbleeds in Lobar distribution L>R
 *** Imaging
-#+ATTR_HTML: :width 100%:
-@@html:<center>@@https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/MRI%20Case%20Number3%20copy.jpg
+@@html:<center><video controls width="750" height=auto
+src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Three.mp4"></video>@@
 * Cerebral Amyloid Angiopathy
 @@html:<center>@@
 * Introduction
 - Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
   disease caused by deposition of amyloid protein in cerebral vessel walls.
+
+** Typical radiological findings TFNE
+Transient focal neurological episodes
+#+ATTR_HTML: :width 40% :align left
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH.jpg
+- Haemorrhagic
+  - Convexity subarachnoid hemorrhage (cSAH)
+  - Lobar Intracranial Haemorrhage (ICH)
+  - Cerebral micro bleeds (CMB)
+  - Cortical superficial siderosis (cSS)
+- Non haemorrhagic
+  - Enlarged Perivascular Spaces (EPVS)
+  - Ischemic stroke
+  - White matter hyperintensities (WMH)
 
 * Criteria for Diagnosis
 Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
@@ -109,26 +123,6 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Genetic:
   - APOE ε4 allele (risk factor)
   - Family history of CAA or hereditary forms (e.g., APP mutations)
-** Unifying diagnosis ? discussion
-- Single pathophysiological condition causing this
-- There is no specific treatment
-- Progressive inexorable course with mortality due to
-  neurodegenerative/cognitive or strokes (ischemic or hemorrhagic)
-
-** Typical radiological findings TFNE
-Transient focal neurological episodes
-#+ATTR_HTML: :width 40% :align left
-https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH.jpg
-- Convexity subarachnoid hemorrhage (cSAH)
-- Lobar Intracranial Haemorrhage (ICH)
-- Cerebral micro bleeds (CMB)
-- Enlarged Perivascular Spaces (EPVS)
-- Ischemic stroke
-- Subdural haemorrhage
-- Cortical superficial siderosis (cSS)
-- White matter hyperintensities (WMH)
-- Intraventricular bleeding
-
 ** Possible/probable phenotypes associated with higher risk of ICH
 - Transient focal neurological event
 - White matter hyper intensities

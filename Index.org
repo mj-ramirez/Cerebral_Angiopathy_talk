@@ -77,11 +77,8 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></vid
 src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Three.mp4"></video>@@
 
 * Cerebral Amyloid Angiopathy
-@@html:<center>@@
-* Introduction
 - Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
   disease caused by deposition of amyloid protein in cerebral vessel walls.
-
 ** Typical radiological findings TFNE
 Transient focal neurological episodes
 #+ATTR_HTML: :width 92%
@@ -117,7 +114,7 @@ Not required but suggestive
 - Genetic:
   - APOE ε4 allele (risk factor)
   - Family history of CAA or hereditary forms (e.g., APP mutations)
-** Possible/probable phenotypes associated with higher risk of ICH
+** Phenotypes associated with higher risk of ICH
 - Transient focal neurological event
 - White matter hyper intensities
 - Disseminated cortical superficial siderosis
@@ -171,7 +168,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON_Illustration.jpg
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.jpg
 ** Antithrombotic Therapy After Intracerebral Haemorrhage
-- RESTART trial: Anticoagulation
+- RESTART trial: Anticoagulation [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
   - The notion that anticoagulation should be permanently avoided following ICH
     has been challenged and a more nuanced approach is suggested
   - One such nuance however is that certain phenotypes of CAA confer the highest
@@ -192,7 +189,6 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.
 - Active Immunotherapy
 
 * Prognosis and Outcomes
-Best, Ambler & Wilson et al. (2021) Development of Imaging-Based Risk Scores for Prediction of Intracranial Haemorrhage and Ischaemic Stroke in Patients Taking Antithrombotic Therapy after Ischaemic Stroke or Transient Ischaemic Attack: A Pooled Analysis of Individual Patient Data from Cohort Studies, The Lancet. Neurology.
 * References
 @@html:<br>@@
 Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A Simple Grading Scale for
@@ -212,6 +208,12 @@ for a Balanced Approach, International Journal of Stroke. [[https://pubmed.ncbi.
 @@html:<br>@@
 DeSimone, Graff & El et al. (2017) Cerebral Amyloid Angiopathy, Journal of the
 American College of Cardiology. [[https://pubmed.ncbi.nlm.nih.gov/28838368/][PubMed]]
+
+@@html:<br>@@
+Salman, Dennis & Sandercock et al. (2019) Effects of Antiplatelet Therapy after
+Stroke Due to Intracerebral Haemorrhage (RESTART): A Randomised, Open-Label
+Trial, The Lancet. [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
+
 * Table of Contents
    :PROPERTIES:
    :UNNUMBERED: notoc

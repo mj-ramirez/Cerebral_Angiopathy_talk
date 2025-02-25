@@ -36,8 +36,8 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
   - MRI revealed now LEFT sided changes
   - MRI repeated 2 months later - resolution
 
-*** Imaging: CT Head September 2015
-@@html:<center><video controls width="820"
+*** Imaging
+@@html:<center><video controls width="750"
 height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_One.mp4"></video>@@
 
 ** Case Number 2: A 67 years old male
@@ -54,7 +54,7 @@ height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_On
   - Resolved and home on continued treatment
 - Jan 2025 recurrent LEFT hemispheric event
   - Several episodes of recurrent stereotyped episodes of right facial numbness, tingling in the right hand and slurred speech
-*** Imaging: MRI Brain July 2024
+*** Imaging
 @@html:<center><video controls width="750" height=auto
 src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></video>@@
 
@@ -75,6 +75,7 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></vid
 *** Imaging
 @@html:<center><video controls width="750" height=auto
 src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Three.mp4"></video>@@
+
 * Cerebral Amyloid Angiopathy
 @@html:<center>@@
 * Introduction
@@ -83,17 +84,9 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Three.mp4"></v
 
 ** Typical radiological findings TFNE
 Transient focal neurological episodes
-#+ATTR_HTML: :width 40% :align left
-https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH.jpg
-- Haemorrhagic
-  - Convexity subarachnoid hemorrhage (cSAH)
-  - Lobar Intracranial Haemorrhage (ICH)
-  - Cerebral micro bleeds (CMB)
-  - Cortical superficial siderosis (cSS)
-- Non haemorrhagic
-  - Enlarged Perivascular Spaces (EPVS)
-  - Ischemic stroke
-  - White matter hyperintensities (WMH)
+#+ATTR_HTML: :width 92%
+@@html:<center>@@
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
 
 * Criteria for Diagnosis
 Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
@@ -115,7 +108,8 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Age ≥50 years
 - MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
 - No alternative cause identified
-** Supporting Features (Not required but suggestive)
+** Supporting Features
+Not required but suggestive
 - Neuroimaging:
   - Acute convexity subarachnoid hemorrhage (non-traumatic)
   - Severe white matter hyperintensities (posterior-predominant)
@@ -178,11 +172,17 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON_Illustration.jpg
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.jpg
 ** Antithrombotic Therapy After Intracerebral Haemorrhage
 - RESTART trial: Anticoagulation
-  - The notion that anticoagulation should be permanently avoided following ICH has been challenged and a more nuanced approach is suggested
-  - One such nuance however is that certain phenotypes of CAA confer the highest rebleed risk
+  - The notion that anticoagulation should be permanently avoided following ICH
+    has been challenged and a more nuanced approach is suggested
+  - One such nuance however is that certain phenotypes of CAA confer the highest
+    rebleed risk
 - Antiplatelets (More controversial)
-  - RESTART AP/SoSTART – small and underpowered but initial results are appearing no increase in risk. ASPIRING is recruiting and we are participating
-  - Metaanalysis suggests modest increase in ICH with antiplatelets with an RR 1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS OUT
+  - RESTART AP/SoSTART – small and underpowered but initial results are
+    appearing no increase in risk. ASPIRING is recruiting and we are
+    participating
+  - Metaanalysis suggests modest increase in ICH with antiplatelets with an RR
+    1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS
+    OUT
 
 ** Novel treatment modalities
 - Monoclonal Antibodies Targeting Amyloid-β

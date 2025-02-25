@@ -19,40 +19,21 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
 #+Email: r.kirthivasan@nhs.net
 #+Title: Cerebral Amyloid Angiopathy
 
-* Cerebral Amyloid Angiopathy
-@@html:<center>@@
-Kirthivasan Ramanatham\\
-Consultant Stroke Physician\\
-Stroke Unit Broomfield Hospital\\
-Mid & South Essex Hospital Trust\\
-February 2025
-** Table of Contents
-   :PROPERTIES:
-   :UNNUMBERED: notoc
-   :END:
-#+REVEAL_TOC: headlines 1
-* Introduction
-Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
-disease caused by deposition of amyloid protein in cerebral vessel walls.
-
 * Case Presentations
-- 3 tales – one unifying diagnosis Thrombosis, haemorrhage and inflammation– all
-  in one.
-  - Quiz
-  - Diagnosis/phenotypes
-  - Conundrums
+- 3 tales of Thrombosis, haemorrhage and inflammation
+- One unifying diagnosis
 ** Case Number 1: A 65 years old female
 *** Presentation
 #+ATTR_REVEAL: :frag (appear)
-- Sept 2015
-  - Presented to stroke with intermittent confusion, subtle left facial weakness
-  - CT reveals extensive hypodensity right temporoparietal lobe
-  - MRI revealed DWI hyperintensity/T2 and FLAIR hyperintensities right temporal lobe – no enhancement
-  - Surveillance MRI revealed complete resolution of abnormality
-- April 2020
+- Sept 2015 RIGHT hemispheric event
+  - Intermittent confusion, subtle left facial weakness
+  - CT: extensive hypodensity right temporoparietal lobe
+  - MRI: DWI hyperintensity/T2 and FLAIR hyperintensities right temporal lobe – no enhancement
+  - Surveillance MRI revealed complete resolution
+- April 2020 LEFT hemispheric event
   - Right arm numbness and aphasia for an hour followed by confusion
   - CT head showed oedema in left temporoparietal area
-  - MRI head with contrast T2 hyperintensity left temporoparietal region with no enhancement
+  - MRI revealed now LEFT sided changes
   - MRI repeated 2 months later - resolution
 
 *** Imaging: CT Head September 2015
@@ -63,16 +44,15 @@ height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_On
 - PMH: on anticoagulant for Anti Phospholipid Antibody syndrome
 *** Presentation
 #+ATTR_REVEAL: :frag (appear)
-- Jan 2019
-  - Presented with sudden onset pins and needles right hand
-  - CT Head and MRI revealed a focal SAH
-- July 2024
-  - 2 x episodes of stereotyped events at 6 and 7 am – right hand tingling and
+- Jan 2019 LEFT hemispheric event
+  - Sudden onset of pins and needles right hand
+  - Imaging revealed left focal SAH
+- July 2024 recurrent LEFT hemispheric event
+  - 2 x episodes of stereotyped events one hour apart: right hand tingling and
     slurred speech
   - Whilst an inpatient had recurrent episode of right facial numbness, tingling of right hand and slurred speech
-  - MRI
   - Resolved and home on continued treatment
-- Jan 2025
+- Jan 2025 recurrent LEFT hemispheric event
   - Several episodes of recurrent stereotyped episodes of right facial numbness, tingling in the right hand and slurred speech
 *** Imaging: MRI Brain July 2024
 @@html:<center><video controls width="750" height=auto
@@ -81,31 +61,42 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></vid
 ** Case Number 3: A 65 years old female
 *** Presentation
 #+ATTR_REVEAL: :frag (appear)
-- July 2022: Two episodes of Left facial droop, left sided paresthesia and dysarthria
-- May 2023: Transient right hemifield visual loss
-- September 2023: Left lower quadrantanopia, left arm drift
-- January 2025:
+- July 2022 RIGHT focal cortical infarct
+  - Two episodes of Left facial droop, left sided paresthesia and dysarthria
+- May 2023 LEFT focal cortical infarct
+  - Transient right hemifield visual loss
+- September 2023 recurrent RIGHT focal cortical infarct
+  - Left lower quadrantanopia, left arm drift
+- January 2025
+  - New onset atrial fibrillation
   - Tingling of the left hand
-  - MRI revealed moderate white matter hyperintensities, few cortical microbleeds L>R
-*** Imaging: MRI Brain January 2025
+  - MRI revealed moderate white matter hyperintensities
+  - Incidental cortical microbleeds in Lobar distribution L>R
+*** Imaging
 #+ATTR_HTML: :width 100%:
 @@html:<center>@@https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/Cerebral%20Angiopathy%20Talk/Images/MRI%20Case%20Number3%20copy.jpg
+* Cerebral Amyloid Angiopathy
+@@html:<center>@@
+* Introduction
+- Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
+  disease caused by deposition of amyloid protein in cerebral vessel walls.
+
 * Criteria for Diagnosis
 Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
 Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology
 Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.gov/35841910/][PubMed]]
-** Definite CAA
+** Definite Cerebral Amyloid Angiopathy
 - Requires postmortem confirmation
 - Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
 - Documentation of lobar hemorrhage (macro/microbleed, cortical superficial siderosis [cSS], or intracerebral hemorrhage [ICH])
-** Probable CAA
+** Probable Cerebral Amyloid Angiopathy
 - Clinical-imaging criteria (without pathology)
 - Age ≥50 years
 - MRI evidence of ≥1 of the following
 - ≥2 strictly lobar hemorrhages (spontaneous ICH, cerebral microbleeds [CMBs], or cSS)
 - One lobar hemorrhage + focal/disseminated cSS (≥3 sulci)
 - Exclusion of other causes (e.g., hypertension, anticoagulation, trauma, hemorrhagic tumor)
-** Possible CAA
+** Possible Cerebral Amyloid Angiopathy
 - Clinical-imaging criteria
 - Age ≥50 years
 - MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
@@ -227,3 +218,8 @@ for a Balanced Approach, International Journal of Stroke. [[https://pubmed.ncbi.
 @@html:<br>@@
 DeSimone, Graff & El et al. (2017) Cerebral Amyloid Angiopathy, Journal of the
 American College of Cardiology. [[https://pubmed.ncbi.nlm.nih.gov/28838368/][PubMed]]
+* Table of Contents
+   :PROPERTIES:
+   :UNNUMBERED: notoc
+   :END:
+#+REVEAL_TOC: headlines 1

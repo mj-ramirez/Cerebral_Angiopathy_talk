@@ -1,8 +1,8 @@
 :REVEAL_PROPERTIES:
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
-#+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
-#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> <a href="https://tinyurl.com/23sj4ssa"> The Link to the PDF version </a> <br> <br> The Link to the HTML5 version: <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/"> https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/ </a>
+#+OPTIONS: num:nil toc:nil author:t email:t timestamp:t title:t
+#+REVEAL_TITLE_SLIDE: %t <br> %a <br> %e <br> Compiled %T <br> <br> <a href="https://tinyurl.com/23sj4ssa"> The Link to the PDF version </a> <br> <br> The Link to the HTML5 version: <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/"> https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/ </a>
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: solarized
 #+REVEAL_SLIDE_FOOTER: Stroke Unit Broomfield Hospital
@@ -212,6 +212,11 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
 - Managing hypertension and lifestyle modifications can slow progression
 - Avoiding anticoagulant to reduce hemorrhage risk
 * Quiz
+:PROPERTIES:
+ :reveal_background: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Venkatesh.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
 ** What are typical imaging features of CAA (True or False?)
 - cortico-subcortical microhemorrhages or petechial hemorrhages
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
@@ -219,13 +224,12 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
 - Focal cortical SAH
 - Subdural haemorrhages
 - Basal ganglia haemorrhages
-** Imaging features associated with higher risk of ICH are (True or False?)
-- Transient focal neurological events
+** Imaging features associated with higher risk of ICH (True or False?)
 - White matter hyper intensities
 - Disseminated cortical superficial siderosis
 - Lobar ICH with micro bleeds
 - Cortical atrophy
-** Transient Focal Neurologica Episodes are (True or False?)
+** Transient Focal Neurologica Episodes (True or False?)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
 - Often presenting of transient parenthesis of the mouth or hand

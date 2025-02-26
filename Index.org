@@ -121,15 +121,14 @@ Transient focal neurological episodes
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
 ** Pathology
 #+ATTR_REVEAL: :frag (appear)
-- Evidence of amyloid-β deposition in cortical/leptomeningeal vessels (intra
+- Amyloid-β deposition in cortical/leptomeningeal vessels (intra
   operative or post mortem)
 - CSF analysis:
-  - 50 percent reduction in levels of cerebrospinal fluid (CSF) amyloid beta 42
-    and beta 40 protein
+  - 50% reduction in levels of amyloid β-42 and β-40 protein
   - Mildly increased total τ(tau)-protein levels
 ** Genetic
- - APOE ε4 allele (risk factor)
- - Family history of CAA or hereditary forms (e.g., APP mutations)
+ - Apolipoprotein E (APOE) ε4 and ε2 allele (risk factor)
+ - Family history of CAA or hereditary forms (e.g., Amyloid Precursor Protein mutations)
 ** Supporting Features
 Not required but suggestive
 - Neuroimaging:

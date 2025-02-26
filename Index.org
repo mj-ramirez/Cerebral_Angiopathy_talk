@@ -84,11 +84,13 @@ Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
 Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology
 Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.gov/35841910/][PubMed]]
 ** Clinical Presentation
+#+ATTR_REVEAL: :frag (appear)
 - Progressive cognitive decline
 - Unusually rapid cognitive decline
 - Any stroke presentation including Hemiplegia
 - Transient focal neurological episodes
 *** Transient focal neurological episodes (TFNEs)
+#+ATTR_REVEAL: :frag (appear)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
 - Often presenting of transient parenthesis of the mouth or hand
@@ -96,7 +98,14 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Very close resemblance to TIAs
 - They pose a high risk for ICH and correlate with focal SAHs and cSS
 ** Imaging
-*** Imaging features of CAA
+#+ATTR_REVEAL: :frag (appear)yy
+- CT Head
+- MRI
+- MR Susceptibility-weighted magnetic resonance imaging (SWI)
+- MR Diffusion-weighted magnetic resonance imaging (DWI)
+- MR T2-weighted-Fluid-Attenuated Inversion Recovery (T2-FLAIR)
+*** Imaging features of Cerebral Amyloid Angiopathy
+#+ATTR_REVEAL: :frag (appear)yy
 - Cortico-subcortical microhemorrhages or petecchial hemorrhages
 - Focal cortical SAH
 - Disseminated cortical superficial siderosis
@@ -111,12 +120,13 @@ Transient focal neurological episodes
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
 ** Pathology
+#+ATTR_REVEAL: :frag (appear)
 - Evidence of amyloid-β deposition in cortical/leptomeningeal vessels (intra
   operative or post mortem)
 - CSF analysis:
   - 50 percent reduction in levels of cerebrospinal fluid (CSF) amyloid beta 42
     and beta 40 protein
-  - Mildly increased total tau protein levels
+  - Mildly increased total τ(tau)-protein levels
 ** Genetic
  - APOE ε4 allele (risk factor)
  - Family history of CAA or hereditary forms (e.g., APP mutations)
@@ -163,17 +173,21 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/SWOT_Illustration.jpg
 #+ATTR_HTML: :width 62% :align left
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 
-** HAT Scoring Sytem
+** Heamorrhage after Thrombolysis (HAT) Scoring System
 3 criteria, 4 points max
-- Example:
-  - Prior ICH 2 = points
-  - cSS = 1 point
+- The Points:
+  - Prior intra cranial hemorrhage (ICH) = 2 points
+  - cortical Superficial Siderosis (cSS) = 1 point
   - APOE e4/e2 = 1 point
-- Interpretation:
-  - O points = 3.7 risk of bleed
+- The Interpretation:
+  - 0 points = 3.7 risk of bleed
   - 3 points = 25% risk
+@@html:<br>@@ Reference: Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A
+Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
+[[http://www.ncbi.nlm.nih.gov/pubmed/18955684][PubMed]]
 
 ** Antithrombotic Therapy After Intracerebral Haemorrhage
+#+ATTR_REVEAL: :frag (appear)
 - RESTART trial: Anticoagulation [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
   - The notion that anticoagulation should be permanently avoided following ICH
     has been challenged and a more nuanced approach is suggested
@@ -187,15 +201,17 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
     1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS
     OUT
 ** Novel treatment modalities
+#+ATTR_REVEAL: :frag (appear)
 - Monoclonal Antibodies Targeting Amyloid-β
 - β-Secretase (BACE) Inhibitors
 - γ-Secretase Modulator
 - Amyloid Aggregation Inhibitors
 - Active Immunotherapy
 * Prognosis and Outcomes
+#+ATTR_REVEAL: :frag (appear)
 - There is no cure
-- Managing hypertension and lifestyle modifications can slow progression.
-- Avoiding anticoagulant to reduce hemorrhage risk.
+- Managing hypertension and lifestyle modifications can slow progression
+- Avoiding anticoagulant to reduce hemorrhage risk
 * Quiz
 ** What are typical imaging features of CAA (True or False?)
 - cortico-subcortical microhemorrhages or petechial hemorrhages
@@ -204,13 +220,13 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 - Focal cortical SAH
 - Subdural haemorrhages
 - Basal ganglia haemorrhages
-** Possible/probable phenotypes associated with higher risk of ICH are
+** Imaging features associated with higher risk of ICH are (True or False?)
 - Transient focal neurological events
 - White matter hyper intensities
 - Disseminated cortical superficial siderosis
 - Lobar ICH with micro bleeds
 - Cortical atrophy
-** Transient Focal Neurologica Episodes (True or False?)
+** Transient Focal Neurologica Episodes are (True or False?)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
 - Often presenting of transient parenthesis of the mouth or hand

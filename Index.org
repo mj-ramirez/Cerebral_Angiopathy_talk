@@ -105,10 +105,10 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - MR Diffusion-weighted magnetic resonance imaging (DWI)
 - MR T2-weighted-Fluid-Attenuated Inversion Recovery (T2-FLAIR)
 *** Imaging features of Cerebral Amyloid Angiopathy
-#+ATTR_REVEAL: :frag (appear)yy
-- Cortico-subcortical microhemorrhages or petecchial hemorrhages
-- Focal cortical SAH
-- Disseminated cortical superficial siderosis
+#+ATTR_REVEAL: :frag (appear)
+- Cortico-subcortical microhemorrhages or petecchial hemorrhages (CMB)
+- Focal cortical subarachnoid haemorrhage (SAH)
+- Disseminated cortical superficial siderosis (cSS)
 - Lobar ICH with micro bleeds
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
 - (Recurrent) lobar ICH - with finger like projections
@@ -123,7 +123,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.j
 #+ATTR_REVEAL: :frag (appear)
 - Amyloid-β deposition in cortical/leptomeningeal vessels (intra
   operative or post mortem)
-- CSF analysis:
+- CSF analysis combined findings of:
   - 50% reduction in levels of amyloid β-42 and β-40 protein
   - Mildly increased total τ(tau)-protein levels
 ** Genetic
@@ -257,6 +257,9 @@ Salman, Dennis & Sandercock et al. (2019) Effects of Antiplatelet Therapy after
 Stroke Due to Intracerebral Haemorrhage (RESTART): A Randomised, Open-Label
 Trial, The Lancet. [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
 
+@@html:<br>@@
+Chiti & Dobson (2017) Protein Misfolding, Amyloid Formation, and Human Disease: A Summary of Progress Over the Last Decade, Annual Review of Biochemistry.
+[[http://www.ncbi.nlm.nih.gov/pubmed/28498720][PubMed]]
 * Table of Contents
    :PROPERTIES:
    :UNNUMBERED: notoc

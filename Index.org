@@ -2,10 +2,10 @@
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
 #+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
-#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> <a href="https://tinyurl.com/23sj4ssa"> The Link to the PDF version </a> <br> <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/"> The Link to the HTML5 version </a>
+#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> <a href="https://tinyurl.com/23sj4ssa"> The Link to the PDF version </a> <br> <br> The Link to the HTML5 version: <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/"> https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/ </a>
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: solarized
-#+REVEAL_SLIDE_FOOTER: Cerebral Amyloid Angiopathy
+#+REVEAL_SLIDE_FOOTER: Stroke Unit Broomfield Hospital
 #+REVEAL_EXTRA_CSS: ./local.css
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Hoppman.jpeg
@@ -79,32 +79,47 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Three.mp4"></v
 * Cerebral Amyloid Angiopathy
 - Cerebral amyloid angiopathy (CAA) is a chronic, degenerative cerebrovascular
   disease caused by deposition of amyloid protein in cerebral vessel walls.
-** Typical radiological findings TFNE
-Transient focal neurological episodes
-#+ATTR_HTML: :width 92%
-@@html:<center>@@
-https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
-
 * Criteria for Diagnosis
 Charidimou, Boulouis & Frosch et al. (2022) The Boston Criteria Version 2.0 for
 Cerebral Amyloid Angiopathy: A Multicentre, Retrospective, MRI-neuropathology
 Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.gov/35841910/][PubMed]]
-** Definite Cerebral Amyloid Angiopathy
-- Requires postmortem confirmation
-- Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
-- Documentation of lobar hemorrhage (macro/microbleed, cortical superficial siderosis [cSS], or intracerebral hemorrhage [ICH])
-** Probable Cerebral Amyloid Angiopathy
-- Clinical-imaging criteria (without pathology)
-- Age ≥50 years
-- MRI evidence of ≥1 of the following
-- ≥2 strictly lobar hemorrhages (spontaneous ICH, cerebral microbleeds [CMBs], or cSS)
-- One lobar hemorrhage + focal/disseminated cSS (≥3 sulci)
-- Exclusion of other causes (e.g., hypertension, anticoagulation, trauma, hemorrhagic tumor)
-** Possible Cerebral Amyloid Angiopathy
-- Clinical-imaging criteria
-- Age ≥50 years
-- MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
-- No alternative cause identified
+** Clinical Presentation
+- Progressive cognitive decline
+- Unusually rapid cognitive decline
+- Any stroke presentation including Hemiplegia
+- Transient focal neurological episodes
+*** Transient focal neurological episodes (TFNEs)
+- Brief disturbances of motor, somatosensory, visual or language functions
+- Frequently recurrent stereotyped episodes of focal disturbances
+- Often presenting of transient parenthesis of the mouth or hand
+- Frequently combining sensory and motor symptoms
+- Very close resemblance to TIAs
+- They pose a high risk for ICH and correlate with focal SAHs and cSS
+** Imaging
+*** Imaging features of CAA
+- Cortico-subcortical microhemorrhages or petecchial hemorrhages
+- Focal cortical SAH
+- Disseminated cortical superficial siderosis
+- Lobar ICH with micro bleeds
+- Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
+- (Recurrent) lobar ICH - with finger like projections
+- White matter hyper intensities (Cortical, Subcortical, Focal)
+- Focal Cortical Microinfarcts
+*** Radiological findings TFNE
+Transient focal neurological episodes
+#+ATTR_HTML: :width 92%
+@@html:<center>@@
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
+** Pathology
+- Evidence of amyloid-β deposition in cortical/leptomeningeal vessels (intra
+  operative or post mortem)
+- CSF analysis:
+  - 50 percent reduction in levels of cerebrospinal fluid (CSF) amyloid beta 42
+    and beta 40 protein
+  - Mildly increased total tau protein levels
+** Genetic
+ - APOE ε4 allele (risk factor)
+ - Family history of CAA or hereditary forms (e.g., APP mutations)
 ** Supporting Features
 Not required but suggestive
 - Neuroimaging:
@@ -114,59 +129,46 @@ Not required but suggestive
 - Genetic:
   - APOE ε4 allele (risk factor)
   - Family history of CAA or hereditary forms (e.g., APP mutations)
-** Phenotypes associated with higher risk of ICH
-- Transient focal neurological event
-- White matter hyper intensities
-- Disseminated cortical superficial siderosis
-- Lobar ICH with micro bleeds
-- Cortical atrophy
-** Typical imaging features of CAA
-- Cortico-subcortical microhemorrhages or petecchial hemorrhages
-- Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
-- (Recurrent) lobar ICH - with finger like projections
-- Focal cortical SAH
-- Subdural haemorrhages
-- Basal ganglia haemorrhages
-** Transient focal neurological episodes (TFNEs)
-- Brief disturbances of motor, somatosensory, visual or language functions
-- Frequently recurrent stereotyped episodes of focal disturbances
-- Often presenting of transient parenthesis of the mouth or hand
-- Very close resemblance to TIAs
-- As these are typically thrombotic, they do not pose a ICH risk
-** Markers for Amyloid angiopathy
-- Clinical
-- Imaging
-- Pathological
-- CSF
-- Genetic
-- Emerging
+** Possible Cerebral Amyloid Angiopathy
+- Age ≥50 years
+- MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
+- No alternative cause identified
+** Probable Cerebral Amyloid Angiopathy
+- Age ≥50 years
+- MRI evidence of ≥1 of the following
+- ≥2 strictly lobar hemorrhages (spontaneous ICH, cerebral microbleeds [CMBs], or cSS)
+- One lobar hemorrhage + focal/disseminated cSS (≥3 sulci)
+- Exclusion of other causes (e.g., hypertension, anticoagulation, trauma, hemorrhagic tumor)
+** Definite Cerebral Amyloid Angiopathy
+- Requires postmortem confirmation
+- Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
+- Documentation of lobar hemorrhage (macro/microbleed, cortical superficial siderosis [cSS], or intracerebral hemorrhage [ICH])
+** CAA Related Inflammation
+- Diagnostic Criteria for CAA-RI:
+- CAA-RI is often diagnosed in the context of the **modified Boston criteria** for CAA, which include:
+- Probable or definite CAA based on imaging or pathology.
+- Evidence of inflammation (e.g., white matter changes, edema) not explained by other causes
+- The diagnosis of CAA-RI is based on a combination of clinical, imaging, and sometimes histopathological findings.
 ** Superficial Siderosis
 #+ATTR_HTML: :width 90%
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Siderosis.jpg
 * Management and Treatment Options
-** Managing thrombotic conditions in CAA
-- Balancing Ischemic vs. Hemorrhagic Stroke Risks
-- Anticoagulation Dilemmas in Atrial Fibrillation
-- Antiplatelet Therapy After Intracerebral Hemorrhage
-- Using imaging biomarkers for risk stratifcation
-- Emerging Approaches and Research Gaps
-- LAAO
-- DOAC Novel biomarker
-- Immunosuppression
-- Biological treatments
+** The antithrombotic SWOT analysis
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/SWOT_Illustration.jpg
 ** Risk of Intracranial Bleeding
 #+ATTR_HTML: :width 55% :align left
-https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON_Illustration.jpg
-- Prior ICH 2 = points
-- cSS = 1 point
-- APOE e4/e2 = 1 point
-- O points 3.7 risk of bleed
-- 3 points – 25% risk
-** CAA, Atrial Fibrillation and Anticoagulation
-#+ATTR_HTML: :width 70%
-@@html:<center>@@
-https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.jpg
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
+
+** HAT Scoring Sytem
+3 criteria, 4 points max
+- Example:
+  - Prior ICH 2 = points
+  - cSS = 1 point
+  - APOE e4/e2 = 1 point
+- Interpretation:
+  - O points = 3.7 risk of bleed
+  - 3 points = 25% risk
 ** Antithrombotic Therapy After Intracerebral Haemorrhage
 - RESTART trial: Anticoagulation [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
   - The notion that anticoagulation should be permanently avoided following ICH
@@ -187,8 +189,31 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.
 - γ-Secretase Modulator
 - Amyloid Aggregation Inhibitors
 - Active Immunotherapy
-
 * Prognosis and Outcomes
+- There is no cure
+- Managing hypertension and lifestyle modifications can slow progression.
+- Avoiding anticoagulant to reduce hemorrhage risk.
+* Quiz
+** What are typical imaging features of CAA (True/False ?)
+- cortico-subcortical microhemorrhages or petechial hemorrhages
+- Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
+- (Recurrent) lobar ICH - with finger like projections
+- Focal cortical SAH
+- Subdural haemorrhages
+- Basal ganglia haemorrhages
+** Possible/probable phenotypes associated with higher risk of ICH are
+- Transient focal neurological events
+- White matter hyper intensities
+- Disseminated cortical superficial siderosis
+- Lobar ICH with micro bleeds
+- Cortical atrophy
+** Transient Focal Neurologica Episodes (True/False)
+- Brief disturbances of motor, somatosensory, visual or language functions
+- Frequently recurrent stereotyped episodes of focal disturbances
+- Often presenting of transient parenthesis of the mouth or hand
+- Very close resemblance to TIAs
+- As these are typically thrombotic, they do not pose a ICH risk
+
 * References
 @@html:<br>@@
 Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A Simple Grading Scale for

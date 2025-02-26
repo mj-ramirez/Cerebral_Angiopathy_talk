@@ -182,7 +182,6 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
   - Metaanalysis suggests modest increase in ICH with antiplatelets with an RR
     1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS
     OUT
-
 ** Novel treatment modalities
 - Monoclonal Antibodies Targeting Amyloid-β
 - β-Secretase (BACE) Inhibitors
@@ -194,7 +193,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 - Managing hypertension and lifestyle modifications can slow progression.
 - Avoiding anticoagulant to reduce hemorrhage risk.
 * Quiz
-** What are typical imaging features of CAA (True/False ?)
+** What are typical imaging features of CAA (True/False?)
 - cortico-subcortical microhemorrhages or petechial hemorrhages
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
 - (Recurrent) lobar ICH - with finger like projections
@@ -207,7 +206,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 - Disseminated cortical superficial siderosis
 - Lobar ICH with micro bleeds
 - Cortical atrophy
-** Transient Focal Neurologica Episodes (True/False)
+** Transient Focal Neurologica Episodes (True/False?)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
 - Often presenting of transient parenthesis of the mouth or hand

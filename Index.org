@@ -25,7 +25,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
 ** Case Number 1: A 65 years old female
 *** Presentation
 #+ATTR_REVEAL: :frag (appear)
-- Sept 2015 RIGHT hemispheric event
+- Sept 2013 RIGHT hemispheric event
   - Intermittent confusion, subtle left facial weakness
   - CT: extensive hypodensity right temporoparietal lobe
   - MRI: DWI hyperintensity/T2 and FLAIR hyperintensities right temporal lobe – no enhancement
@@ -35,7 +35,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
   - CT head showed oedema in left temporoparietal area
   - MRI revealed now LEFT sided changes
   - MRI repeated 2 months later - resolution
-
+- 2024
 *** Imaging
 @@html:<center><video controls width="750"
 height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_One.mp4"></video>@@
@@ -86,14 +86,13 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 ** Clinical Presentation
 #+ATTR_REVEAL: :frag (appear)
 - Progressive cognitive decline
-- Unusually rapid cognitive decline
 - Any stroke presentation including Hemiplegia
 - Transient focal neurological episodes
 *** Transient focal neurological episodes (TFNEs)
 #+ATTR_REVEAL: :frag (appear)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
-- Often presenting of transient parenthesis of the mouth or hand
+- Often presenting of transient paresthesia of the mouth or hand
 - Frequently combining sensory and motor symptoms
 - Very close resemblance to TIAs
 - They pose a high risk for ICH and correlate with focal SAHs and cSS
@@ -128,7 +127,8 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.j
   - Mildly increased total τ(tau)-protein levels
 ** Genetic
  - Apolipoprotein E (APOE) ε4 and ε2 allele (risk factor)
- - Family history of CAA or hereditary forms (e.g., Amyloid Precursor Protein mutations)
+ - Family history of CAA or hereditary forms (e.g. Amyloid Precursor Protein
+   mutations)
 ** Supporting Features
 Not required but suggestive
 - Neuroimaging:
@@ -137,7 +137,7 @@ Not required but suggestive
   - Enlarged perivascular spaces (centrum semiovale >20 count)
 - Genetic:
   - APOE ε4 allele (risk factor)
-  - Family history of CAA or hereditary forms (e.g., APP mutations)
+  - Family history of CAA or hereditary forms (e.g. APP mutations)
 ** Possible Cerebral Amyloid Angiopathy
 - Age ≥50 years
 - MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
@@ -145,18 +145,18 @@ Not required but suggestive
 ** Probable Cerebral Amyloid Angiopathy
 - Age ≥50 years
 - MRI evidence of ≥1 of the following
-- ≥2 strictly lobar hemorrhages (spontaneous ICH, cerebral microbleeds [CMBs], or cSS)
+- ≥2 strictly lobar hemorrhages: spontaneous ICH, cerebral microbleeds (CMBs),
+  or cortical superficial siderosis (cSS)
 - One lobar hemorrhage + focal/disseminated cSS (≥3 sulci)
-- Exclusion of other causes (e.g., hypertension, anticoagulation, trauma, hemorrhagic tumor)
+- Exclusion of other causes (e.g. hypertension, anticoagulation, trauma, hemorrhagic tumor)
 ** Definite Cerebral Amyloid Angiopathy
 - Requires postmortem confirmation
 - Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
-- Documentation of lobar hemorrhage (macro/microbleed, cortical superficial siderosis [cSS], or intracerebral hemorrhage [ICH])
-** CAA Related Inflammation
-- Diagnostic Criteria for CAA-RI:
-- CAA-RI is often diagnosed in the context of the **modified Boston criteria** for CAA, which include:
-- Probable or definite CAA based on imaging or pathology.
-- Evidence of inflammation (e.g., white matter changes, edema) not explained by other causes
+- Documentation of lobar hemorrhage: macro/microbleed, cortical superficial siderosis (cSS), or intracerebral hemorrhage (ICH)
+** Cerebral Amyloid Angiopathy Related Inflammation
+- CAA-RI is often diagnosed in the context of the modified Boston criteria for CAA, which include:
+  - Probable or definite CAA based on imaging or pathology.
+  - Evidence of inflammation (e.g. white matter changes, edema) not explained by other causes.
 - The diagnosis of CAA-RI is based on a combination of clinical, imaging, and sometimes histopathological findings.
 ** Superficial Siderosis
 #+ATTR_HTML: :width 90%

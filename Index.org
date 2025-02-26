@@ -175,7 +175,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illustration_AF_and_CAA.
     rebleed risk
 - Antiplatelets (More controversial)
   - RESTART AP/SoSTART – small and underpowered but initial results are
-    appearing no increase in risk. ASPIRING is recruiting and we are
+    appearing no increase in risk. [[https://clinical-brain-sciences.ed.ac.uk/aspiring][ASPIRING]] is recruiting and we are
     participating
   - Metaanalysis suggests modest increase in ICH with antiplatelets with an RR
     1.3-1.5 but is it outweighed by prevention of thrombotic events? JURY IS

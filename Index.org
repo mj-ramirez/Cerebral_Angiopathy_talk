@@ -15,7 +15,7 @@
 #+attr_html: :width 12% :align right
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
 
-#+Author: Kirthivasan Ramanatham
+#+Author: Kirthivasan Ramanathan
 #+Email: r.kirthivasan@nhs.net
 #+Title: Cerebral Amyloid Angiopathy
 
@@ -194,7 +194,7 @@ Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial
 - The Points:
   - Prior intra cranial hemorrhage (ICH) = 2 points
   - cortical Superficial Siderosis (cSS) = 1 point
-  - APOE e4/e2 = 1 point
+  - APOE ε4/ε2 = 1 point
 - The Interpretation:
   - 0 points = 3.7 risk of bleed
   - 3 points = 25% risk

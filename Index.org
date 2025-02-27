@@ -34,7 +34,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
   - Right arm numbness and aphasia for an hour followed by confusion
   - CT head showed oedema in left temporoparietal area
   - MRI revealed now LEFT sided changes
-  - MRI repeated 2 months later - resolution
+  - MRI repeated 6 months later - resolution
 *** Imaging
 @@html:<center><video controls width="750"
 height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_One.mp4"></video>@@
@@ -180,14 +180,18 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON1.jpg
 
-Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial Bleeding Risk: Prognostic and Practical Significance, International Journal of Stroke.
+Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial
+Bleeding Risk: Prognostic and Practical Significance, International Journal of
+Stroke. [[https://pubmed.ncbi.nlm.nih.gov/35658630/][PubMed]]
 
 ** CMB intracranial bleeding risk II
-#+ATTR_HTML: :width 70%
+#+ATTR_HTML: :width 80%
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON2.jpg
 
-Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial Bleeding Risk: Prognostic and Practical Significance, International Journal of Stroke.
+Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial
+Bleeding Risk: Prognostic and Practical Significance, International Journal of
+Stroke. [[https://pubmed.ncbi.nlm.nih.gov/35658630/][PubMed]]
 
 ** Heamorrhage after Thrombolysis (HAT) Scoring System
 3 criteria, 4 points max

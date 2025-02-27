@@ -35,7 +35,6 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/NHS.png
   - CT head showed oedema in left temporoparietal area
   - MRI revealed now LEFT sided changes
   - MRI repeated 2 months later - resolution
-- 2024
 *** Imaging
 @@html:<center><video controls width="750"
 height=auto src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_One.mp4"></video>@@
@@ -97,9 +96,11 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Very close resemblance to TIAs
 - They pose a high risk for ICH and correlate with focal SAHs and cSS
 ** Imaging
-#+ATTR_REVEAL: :frag (appear)yy
+#+ATTR_REVEAL: :frag (appear)
 - CT Head
 - MRI
+- MR Fast Field Echo magnetic resonance imaging (FFE)
+- MR Gradient Echo Sequence magnetic resonance imaging (GRE)
 - MR Susceptibility-weighted magnetic resonance imaging (SWI)
 - MR Diffusion-weighted magnetic resonance imaging (DWI)
 - MR T2-weighted-Fluid-Attenuated Inversion Recovery (T2-FLAIR)
@@ -109,12 +110,12 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - Focal cortical subarachnoid haemorrhage (SAH)
 - Disseminated cortical superficial siderosis (cSS)
 - Lobar ICH with micro bleeds
-- Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
+- Large and confluent areas of white matter hyperintensities in
+  T2/FLAIR-weighted images and scattered microbleeds on GRE/SWI sequences
 - (Recurrent) lobar ICH - with finger like projections
 - White matter hyper intensities (Cortical, Subcortical, Focal)
 - Focal Cortical Microinfarcts
-*** Radiological findings TFNE
-Transient focal neurological episodes
+*** Radiological findings in CAA
 #+ATTR_HTML: :width 92%
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.jpg
@@ -158,6 +159,9 @@ Not required but suggestive
   - Probable or definite CAA based on imaging or pathology.
   - Evidence of inflammation (e.g. white matter changes, edema) not explained by other causes.
 - The diagnosis of CAA-RI is based on a combination of clinical, imaging, and sometimes histopathological findings.
+** Cortical Microbleeds
+#+ATTR_HTML: :width 120%
+@@html:<center>@@https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/cortical_microbleed_table.jpg
 ** Superficial Siderosis
 #+ATTR_HTML: :width 90%
 @@html:<center>@@
@@ -171,6 +175,14 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/SWOT_Illustration.jpg
 #+Caption: Managing antithrombotics and anticoagulants in patients with asymptomatic microbleeds (CMBs) and Cortical superficial siderosis (cSS). @@html:<br><br><p>@@ Reference: Charidimou & Smith (2024) Cardiovascular Management in Asymptomatic (Silent) Cerebral Microbleeds and Suspected Cerebral Amyloid Angiopathy, Stroke.@@html:</p>@@
 #+ATTR_HTML: :width 62% :align left
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
+** CMB Intracranial bleeding risk I
+#+ATTR_HTML: :width 70%
+@@html:<center>@@
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON1.jpg
+** CMB intracranial bleeding risk II
+#+ATTR_HTML: :width 70%
+@@html:<center>@@
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON2.jpg
 
 ** Heamorrhage after Thrombolysis (HAT) Scoring System
 3 criteria, 4 points max
@@ -223,6 +235,7 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
+#+ATTR_REVEAL: :frag (appear)
 - cortico-subcortical microhemorrhages or petechial hemorrhages
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
 - (Recurrent) lobar ICH - with finger like projections
@@ -235,9 +248,10 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
-- White matter hyper intensities
+#+ATTR_REVEAL: :frag (appear)
+- Severe white matter hyper intensities
 - Disseminated cortical superficial siderosis
-- Lobar ICH with micro bleeds
+- Micro bleeds
 - Cortical atrophy
 ** Transient Focal Neurologica Episodes (True or False?)
 :PROPERTIES:
@@ -245,9 +259,10 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
+#+ATTR_REVEAL: :frag (appear)
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
-- Often presenting of transient parenthesis of the mouth or hand
+- Often presenting of transient paraesthesia of the mouth or hand
 - Very close resemblance to TIAs
 - As these are typically thrombotic, they do not pose a ICH risk
 

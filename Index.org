@@ -179,10 +179,15 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/CAA_and_microbleed.jpg
 #+ATTR_HTML: :width 70%
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON1.jpg
+
+Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial Bleeding Risk: Prognostic and Practical Significance, International Journal of Stroke.
+
 ** CMB intracranial bleeding risk II
 #+ATTR_HTML: :width 70%
 @@html:<center>@@
 https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/MICON2.jpg
+
+Best, Jesuthasan & Werring (2023) Cerebral Small Vessel Disease and Intracranial Bleeding Risk: Prognostic and Practical Significance, International Journal of Stroke.
 
 ** Heamorrhage after Thrombolysis (HAT) Scoring System
 3 criteria, 4 points max
@@ -299,3 +304,4 @@ Chiti & Dobson (2017) Protein Misfolding, Amyloid Formation, and Human Disease: 
    :UNNUMBERED: notoc
    :END:
 #+REVEAL_TOC: headlines 1
+* Thank You !!!

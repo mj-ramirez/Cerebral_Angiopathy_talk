@@ -218,6 +218,11 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
  :reveal_background_opacity: 0.2
  :END:
 ** What are typical imaging features of CAA (True or False?)
+:PROPERTIES:
+ :reveal_background: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Venkatesh.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
 - cortico-subcortical microhemorrhages or petechial hemorrhages
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
 - (Recurrent) lobar ICH - with finger like projections
@@ -225,11 +230,21 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
 - Subdural haemorrhages
 - Basal ganglia haemorrhages
 ** Imaging features associated with higher risk of ICH (True or False?)
+:PROPERTIES:
+ :reveal_background: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Venkatesh.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
 - White matter hyper intensities
 - Disseminated cortical superficial siderosis
 - Lobar ICH with micro bleeds
 - Cortical atrophy
 ** Transient Focal Neurologica Episodes (True or False?)
+:PROPERTIES:
+ :reveal_background: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Venkatesh.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
 - Brief disturbances of motor, somatosensory, visual or language functions
 - Frequently recurrent stereotyped episodes of focal disturbances
 - Often presenting of transient parenthesis of the mouth or hand

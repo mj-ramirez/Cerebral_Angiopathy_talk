@@ -106,7 +106,7 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 - MR T2-weighted-Fluid-Attenuated Inversion Recovery (T2-FLAIR)
 *** Imaging features of Cerebral Amyloid Angiopathy
 #+ATTR_REVEAL: :frag (appear)
-- Cortico-subcortical microhemorrhages or petecchial hemorrhages (CMB)
+- Cortico-subcortical microheamorrhages or petecchial heamorrhages (CMB)
 - Focal cortical subarachnoid haemorrhage (SAH)
 - Disseminated cortical superficial siderosis (cSS)
 - Lobar ICH with micro bleeds
@@ -133,7 +133,7 @@ https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Illutstration_of_ICH_2.j
 ** Supporting Features
 Not required but suggestive
 - Neuroimaging:
-  - Acute convexity subarachnoid hemorrhage (non-traumatic)
+  - Acute convexity subarachnoid heamorrhage (non-traumatic)
   - Severe white matter hyperintensities (posterior-predominant)
   - Enlarged perivascular spaces (centrum semiovale >20 count)
 - Genetic:
@@ -141,19 +141,19 @@ Not required but suggestive
   - Family history of CAA or hereditary forms (e.g. APP mutations)
 ** Possible Cerebral Amyloid Angiopathy
 - Age ≥50 years
-- MRI evidence of one strictly lobar hemorrhage (ICH, CMB, or cSS)
+- MRI evidence of one strictly lobar heamorrhage (ICH, CMB, or cSS)
 - No alternative cause identified
 ** Probable Cerebral Amyloid Angiopathy
 - Age ≥50 years
 - MRI evidence of ≥1 of the following
-- ≥2 strictly lobar hemorrhages: spontaneous ICH, cerebral microbleeds (CMBs),
+- ≥2 strictly lobar heamorrhages: spontaneous ICH, cerebral microbleeds (CMBs),
   or cortical superficial siderosis (cSS)
-- One lobar hemorrhage + focal/disseminated cSS (≥3 sulci)
-- Exclusion of other causes (e.g. hypertension, anticoagulation, trauma, hemorrhagic tumor)
+- One lobar heamorrhage + focal/disseminated cSS (≥3 sulci)
+- Exclusion of other causes (e.g. hypertension, anticoagulation, trauma, heamorrhagic tumor)
 ** Definite Cerebral Amyloid Angiopathy
 - Requires postmortem confirmation
 - Pathological evidence of amyloid-β deposition in cortical/leptomeningeal vessels
-- Documentation of lobar hemorrhage: macro/microbleed, cortical superficial siderosis (cSS), or intracerebral hemorrhage (ICH)
+- Documentation of lobar heamorrhage: macro/microbleed, cortical superficial siderosis (cSS), or intracerebral heamorrhage (ICH)
 ** Cerebral Amyloid Angiopathy Related Inflammation
 - CAA-RI is often diagnosed in the context of the modified Boston criteria for CAA, which include:
   - Probable or definite CAA based on imaging or pathology.
@@ -196,14 +196,14 @@ Stroke. [[https://pubmed.ncbi.nlm.nih.gov/35658630/][PubMed]]
 ** Heamorrhage after Thrombolysis (HAT) Scoring System
 3 criteria, 4 points max
 - The Points:
-  - Prior intra cranial hemorrhage (ICH) = 2 points
+  - Prior intra cranial heamorrhage (ICH) = 2 points
   - cortical Superficial Siderosis (cSS) = 1 point
   - APOE ε4/ε2 = 1 point
 - The Interpretation:
   - 0 points = 3.7 risk of bleed
   - 3 points = 25% risk
 @@html:<br>@@ Reference: Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A
-Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
+Simple Grading Scale for Predicting Heamorrhage after Thrombolysis, Neurology.
 [[http://www.ncbi.nlm.nih.gov/pubmed/18955684][PubMed]]
 
 ** Antithrombotic Therapy After Intracerebral Haemorrhage
@@ -231,7 +231,7 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
 #+ATTR_REVEAL: :frag (appear)
 - There is no cure
 - Managing hypertension and lifestyle modifications can slow progression
-- Avoiding anticoagulant to reduce hemorrhage risk
+- Avoiding anticoagulant to reduce heamorrhage risk
 * Quiz
 :PROPERTIES:
  :reveal_background: https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Venkatesh.jpg
@@ -245,7 +245,7 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
  :reveal_background_opacity: 0.2
  :END:
 #+ATTR_REVEAL: :frag (appear)
-- cortico-subcortical microhemorrhages or petechial hemorrhages
+- cortico-subcortical microheamorrhages or petechial heamorrhages
 - Large and confluent areas of white matter hyperintensities in T2/FLAIR-weighted images and scattered microbleeds on gradient-echo sequences
 - (Recurrent) lobar ICH - with finger like projections
 - Focal cortical SAH
@@ -278,7 +278,7 @@ Simple Grading Scale for Predicting Hemorrhage after Thrombolysis, Neurology.
 * References
 @@html:<br>@@
 Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A Simple Grading Scale for
-Predicting Hemorrhage after Thrombolysis, Neurology. [[https://pubmed.ncbi.nlm.nih.gov/18955684][PubMed]]
+Predicting Hamorrhage after Thrombolysis, Neurology. [[https://pubmed.ncbi.nlm.nih.gov/18955684][PubMed]]
 
 @@html:<br>@@
 Best, Ambler & Wilson et al. (2021) Development of Imaging-Based Risk Scores for

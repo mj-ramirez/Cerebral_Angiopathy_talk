@@ -98,6 +98,7 @@ Diagnostic Accuracy Study, The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.
 ** Imaging
 #+ATTR_REVEAL: :frag (appear)
 - CT Head
+- MRI
 - MR Fast Field Echo magnetic resonance imaging (FFE)
 - MR Gradient Echo Sequence magnetic resonance imaging (GRE)
 - MR Susceptibility-weighted magnetic resonance imaging (SWI)

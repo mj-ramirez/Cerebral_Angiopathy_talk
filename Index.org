@@ -2,7 +2,7 @@
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
 #+OPTIONS: num:nil toc:nil author:t email:t timestamp:t title:t
-#+REVEAL_TITLE_SLIDE: %t <br> %a <br> %e <br> Compiled %T <br> <br> <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/Cerebral_Angiopathy_talk.pdf"> The Link to the PDF version </a> <br> <br> The Link to the HTML5 version: <a href="https://mj-ramirez.github.io/Cerebral_Amyloid_Angiopathy_Talk/https://mj-ramirez.github.io/Cerebral_Angiopathy_talk"> https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/ </a>  <br> <br> Technical Support & Fact-Checking: <br> Manfred Junemann Ramirez
+#+REVEAL_TITLE_SLIDE: %t <br> %a <br> %e <br> Compiled %T <br> <br> <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/Cerebral_Angiopathy_talk.pdf"> The Link to the PDF version </a> <br> <br> The Link to the HTML5 version: <a href="https://mj-ramirez.github.io/Cerebral_Angiopathy_talk"> https://mj-ramirez.github.io/Cerebral_Angiopathy_talk/ </a>  <br> <br> Technical Support & Fact-Checking: <br> Manfred Junemann Ramirez
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: solarized
 #+REVEAL_SLIDE_FOOTER: Stroke Unit Broomfield Hospital

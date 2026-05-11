@@ -277,17 +277,21 @@ Simple Grading Scale for Predicting Heamorrhage after Thrombolysis, Neurology.
 
 * References
 @@html:<br>@@
+Greenberg (2026) Cerebral Amyloid Angiopathy, New England Journal of Medicine.
+[[https://www.nejm.org/doi/10.1056/NEJMra2411298][NEJM]]
+
+@@html:<br>@@
 Lou, Safdar & Mehdiratta et al. (2008) The HAT Score: A Simple Grading Scale for
 Predicting Hamorrhage after Thrombolysis, Neurology. [[https://pubmed.ncbi.nlm.nih.gov/18955684][PubMed]]
 
 @@html:<br>@@
 Best, Ambler & Wilson et al. (2021) Development of Imaging-Based Risk Scores for
 Prediction of Intracranial Haemorrhage and Ischaemic Stroke in Patients Taking
-Antithrombotic Therapy after Ischaemic Stroke or Transient Ischaemic Attacks, The Lancet.
-Neurology. [[https://pubmed.ncbi.nlm.nih.gov/31130428/][PubMed]]
+Antithrombotic Therapy after Ischaemic Stroke or Transient Ischaemic Attacks,
+The Lancet. Neurology. [[https://pubmed.ncbi.nlm.nih.gov/33743239/][PubMed]]
 
 @@html:<br>@@
-Charidimou, Shoamanesh & Salman et al. (2017) Cerebral Amyloid Angiopathy,
+Charidimou, Shoamanesh & Salman et al. (2018) Cerebral Amyloid Angiopathy,
 Cerebral Microbleeds and Implications for Anticoagulation Decisions: The Need
 for a Balanced Approach, International Journal of Stroke. [[https://pubmed.ncbi.nlm.nih.gov/29125055/][PubMed]]
 
@@ -301,8 +305,10 @@ Stroke Due to Intracerebral Haemorrhage (RESTART): A Randomised, Open-Label
 Trial, The Lancet. [[http://www.ncbi.nlm.nih.gov/pubmed/31128924][PubMed]]
 
 @@html:<br>@@
-Chiti & Dobson (2017) Protein Misfolding, Amyloid Formation, and Human Disease: A Summary of Progress Over the Last Decade, Annual Review of Biochemistry.
+Chiti & Dobson (2017) Protein Misfolding, Amyloid Formation, and Human Disease:
+A Summary of Progress Over the Last Decade, Annual Review of Biochemistry.
 [[http://www.ncbi.nlm.nih.gov/pubmed/28498720][PubMed]]
+
 * Table of Contents
    :PROPERTIES:
    :UNNUMBERED: notoc

@@ -26,3 +26,7 @@
   color: #5e94be;
   height: 1%;
 }
+
+.reveal section img {
+    max-width: none;
+}

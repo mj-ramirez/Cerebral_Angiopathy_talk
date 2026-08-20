@@ -61,7 +61,7 @@ src="https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/Case_Two.mp4"></vid
 *** Presentation
 #+ATTR_REVEAL: :frag (appear)
 - July 2022 RIGHT focal cortical infarct
-  - Two episodes of Left facial droop, left sided paresthesia and dysarthria
+  - Two episodes of left facial droop, left sided paresthesia and dysarthria
 - May 2023 LEFT focal cortical infarct
   - Transient right hemifield visual loss
 - September 2023 recurrent RIGHT focal cortical infarct
@@ -160,8 +160,9 @@ Not required but suggestive
   - Evidence of inflammation (e.g. white matter changes, edema) not explained by other causes.
 - The diagnosis of CAA-RI is based on a combination of clinical, imaging, and sometimes histopathological findings.
 ** Cortical Microbleeds
-#+ATTR_HTML: :width 120%
-@@html:<center>@@https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/cortical_microbleed_table.jpg
+#+ATTR_HTML: :width 100%; margin:auto;
+@@html:<center>@@
+https://mj-ramirez.github.io/Images-Cerebral-Angiopathy/cortical_microbleed_table.jpg
 ** Superficial Siderosis
 #+ATTR_HTML: :width 90%
 @@html:<center>@@
@@ -276,6 +277,7 @@ Simple Grading Scale for Predicting Heamorrhage after Thrombolysis, Neurology.
 - As these are typically thrombotic, they do not pose a ICH risk
 
 * References
+
 @@html:<br>@@
 Greenberg (2026) Cerebral Amyloid Angiopathy, New England Journal of Medicine.
 [[https://www.nejm.org/doi/10.1056/NEJMra2411298][NEJM]]
